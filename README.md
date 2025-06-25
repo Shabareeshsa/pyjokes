@@ -1,2 +1,2 @@
 # pyjokes
-joking website in python app
+joking website in python app.
